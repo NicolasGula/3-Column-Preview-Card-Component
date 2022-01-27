@@ -32,7 +32,7 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
+- Solucion URL: [https://github.com/NicolasGula/3-Column-Preview-Card-Component](https://github.com/NicolasGula/3-Column-Preview-Card-Component)
 - Sitio URL: [https://columnpreviewcardcomponent.netlify.app/](https://columnpreviewcardcomponent.netlify.app/)
 
 ### Utilice
