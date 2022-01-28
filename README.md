@@ -41,7 +41,7 @@ Los usuarios deben ser capaces de:
 - CSS and SASS
 - Flexbox
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
+- [React](https://create-react-app.dev/) - JS library
 
 ### Que aprendi
 
